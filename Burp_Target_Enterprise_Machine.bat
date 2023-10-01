@@ -1,0 +1,1 @@
+curl -vgw "\n" -X POST "http://localhost:8080/api/Qbuekl2buP80kQ3irZV9iBNX4JUhhwWM/v0.1/scan" -d "{\"name\":\"Mail_Apmosys\",\"scan_configurations\":[{\"name\":\"Crawl and Audit - Deep\",\"type\":\"NamedConfiguration\"}],\"urls\":[\"https://www.mail.apmosys.com/\"]}"
